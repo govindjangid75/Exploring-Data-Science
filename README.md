@@ -534,3 +534,14 @@ Made with ☕ chai, 🐍 Python, and a lot of ❤️ by Govind Jangid
 *"Good code needs chai!"*
 
 </div>
+---
+
+## License & Copyright
+
+© 2026 **Govind Jangid**. All rights reserved.
+
+This repository is for **educational and reference purposes only**.
+
+You may use it for learning, but **copying, redistributing, or republishing the code as your own is not permitted.**
+
+---
