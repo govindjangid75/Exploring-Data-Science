@@ -3,7 +3,7 @@
 # Define a string variable
 chai_type = "ginger chai"
 # Define a customer name string
-customer_name = "Garvita"
+customer_name = "NAGORI"
 
 # Print formatted string using f-string
 print(f"Order for {customer_name}, {chai_type} please!")
